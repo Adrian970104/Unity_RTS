@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 548bb1baece4dd548b7bb2397413b6be, type: 3}
+  m_Name: AV
+  m_EditorClassIdentifier: 
+  name: AV
+  maxHealth: 150
+  healthBarFit: {r: 0, g: 1, b: 1, a: 0}
+  healthBarCritical: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  invincibility: 0
+  cost: 120
+  uiGraphic: {fileID: 21300000, guid: bebe6bd08e80d4948a3caa6a5caab0f1, type: 3}
+  uiGraphic43: {fileID: 21300000, guid: 1d777fec5b5ae9d44ab5b0ea550b0167, type: 3}
+  testColor: {r: 0, g: 0.037703037, b: 1, a: 0}
+  type: 3
+  builtFrom: 3
+  range: 12
+  speed: 6
+  angularSpeed: 180
+  damage: 40
+  attackSpeed: 1.5
